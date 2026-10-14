@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use or refer to this method, please cite it as below."
+title: "The Paper-First Method"
+abstract: "A way to build software with AI: design it on one page, make the AI push back, then let it build inside the structure you decided. Paper. Pushback. Production."
+type: software
+authors:
+  - family-names: Waheed
+    given-names: Sohaib
+    website: "https://sohaibwaheed.com"
+date-released: 2026-10-12
+url: "https://paperfirstmethod.com"
+repository-code: "https://github.com/Sohaibpm/paper-first-method"
+license: CC-BY-4.0
+keywords:
+  - paper-first
+  - ai-coding
+  - claude-code
+  - cursor
+  - software-planning
+  - product-management
